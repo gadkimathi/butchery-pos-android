@@ -2,7 +2,7 @@
 
 RuralPOS is an offline-first point of sale system designed for butcheries, kitchens, and restaurants operating in environments with unreliable or intermittent internet connectivity. The system allows businesses to continue operating normally during network outages while automatically synchronizing data with the cloud when connectivity becomes available.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.jpg)
 
 ---
 
@@ -37,12 +37,12 @@ RuralPOS addresses this challenge by adopting a local-first architecture. All op
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="48%" alt="Admin Dashboard" />
-  <img src="screenshots/sales-screen.png" width="48%" alt="POS Sales Screen" />
+  <img src="screenshots/Dashboard.jpg" width="48%" alt="Admin Dashboard" />
+  <img src="screenshots/sales-screen.jpg" width="48%" alt="POS Sales Screen" />
 </p>
 
 <p align="center">
-  <img src="screenshots/kitchen-display.png" width="48%" alt="Kitchen Display System" />
+  <img src="screenshots/kitchen-display.jpg" width="48%" alt="Kitchen Display System" />
 </p>
 
 ---
