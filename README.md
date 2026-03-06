@@ -150,4 +150,4 @@ Refer to the `LICENSE` file for further information regarding usage restrictions
 
 ## Contact
 
-For demonstrations, licensing inquiries, or collaboration opportunities, please open an issue in this repository or reach out via the provided contact channels.
+For demonstrations, licensing inquiries, or collaboration opportunities, please open an issue in this repository or reach out via murithigad@gmail.com.
