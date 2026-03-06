@@ -1,4 +1,4 @@
-# RuralPOS — Offline-First Point of Sale System
+# RuralPOS: Offline-First Point of Sale System
 
 RuralPOS is an offline-first point of sale system designed for butcheries, kitchens, and restaurants operating in environments with unreliable or intermittent internet connectivity. The system allows businesses to continue operating normally during network outages while automatically synchronizing data with the cloud when connectivity becomes available.
 
